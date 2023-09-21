@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://saba9931.io)
 <h1 align="center">Hi 👋, I'm Saba Shaikh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://www.freepik.com/premium-ai-image/female-developer-background_50760236.htm#term=female+programmer&page=1&track=ais_ai_generated”>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/female-developer-background_665280-9649.jpg?w=1380">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saba9931&label=Profile%20views&color=0e75b6&style=flat" alt="saba9931" /> </p>
 
